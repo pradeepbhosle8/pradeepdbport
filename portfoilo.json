@@ -1,5 +1,5 @@
 {
-  "portfolio": [
+  "portfolio":[
     {
     "unique":"portfolioModal11",
    "caption": "Ganpati Transport",
@@ -78,9 +78,9 @@
                 "category": "uiDesigne" 
             }
 
-],
-   "exprience": [
-   {
+] ,
+  "expriece":[
+    {
     "company": "Freelancer Web Devloper",
     "jointDate": "10th Sept. 2016",
     "leaveDate": "Current ",
@@ -134,5 +134,8 @@
         "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! ","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!" ]
          
     }
-  ],
+],
+  "profile": {
+    "name": "typicode"
+  }
 }
