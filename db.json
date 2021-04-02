@@ -1,92 +1,558 @@
 {
   "portfolio": [
     {
-    "unique":"portfolioModal11",
-   "caption": "Ganpati Transport",
-    "port_img": "ganpatitransport.jpg",
-    "client": "Ganpati Tranport ",
-    "skill": "HTML, CSS,  Jquery, Falsh8 ",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, ab! Nemo architecto esse vero reprehenderit tempora animi perspiciatis soluta illo!",
-    "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!" ],
-    "visit_website": "http://ganpatitransport.com",
-    "category": "front-end"
+        "unique":"portfolioModalDelarhub",
+        "caption": "Delar hub",
+        "port_img": "delarhub.jpg",
+        "client": "Growmore ",
+        "skill": "HTML5, CSS/SASS, Bootstrap, JavsScript, Git",
+        "description": "Build application mokup psd file and The most advanced with bootstrap, responsive website building application in sass variable use change theme. Content rich websites are great for SEO.",
+        "achivement":
+        [
+        " Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, javascript",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create",
+        "Login, Registration, Pricing Table",
+        "Delar Ecommerce Website ",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized."
+        ],
+        "visit_website": "https://pradeepbhosle8.github.io/Dealer-Directory/",
+        "category": "front-end"
     },
-    {
-    "unique":"portfolioModal12",
-    "caption": "geetu.in",
-    "port_img": "geetuin.jpg",  
-    "client": "geetu.in",
-    "skill": "HTML, CSS,  Jquery, JAVASCRIPT",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, ab! Nemo architecto esse vero reprehenderit tempora animi perspiciatis soluta illo!",
-    "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit." ],
-    "visit_website": "http://www.geetu.in/",
-    "category": "front-end"
-    },
-    {
-        "unique":"portfolioModal13",
-        "caption": "craftsvilla.com",
-        "port_img": "craftsvilla.jpg",
-        "client": "craftsvilla",
-        "skill": "HTML, CSS,  Jquery, JAVASCRIPT",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, ab! Nemo architecto esse vero reprehenderit tempora animi perspiciatis soluta illo!",
-        "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit." ],
-        "visit_website": "http://www.geetu.in/",
-        "category": "javascript"
-    },
-    {
-        "unique":"portfolioModal14",
-        "caption": "debrasearle",
+   {
+        "unique":"portfolioModalDelarTemp",
+        "caption": "Delar Template",
+        "port_img": "delarhubtemp1.jpg",
+        "client": "Growmore ",
+        "skill": "HTML5, CSS/SASS, Bootstrap, JavsScript, Git",
+        "description": "Build application mokup psd file and The most advanced with bootstrap, responsive website building application in sass variable use change theme. Content rich websites are great for SEO.",
+        "achivement":
+        [
+        " Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, javascript",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create",
+        "Login, Registration, Pricing Table",
+        "Delar Ecommerce Website ",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized."
+        ],
+        "visit_website": "https://pradeepbhosle8.github.io/Pradeep-hub-static-website/",
+        "category": "front-end"
+   },
+   {
+        "unique":"portfolioModalHtmlTemp",
+        "caption": "HTML Template",
+        "port_img": "pradeephubtemp.jpg",
+        "client": "",
+        "skill": "HTML5, CSS/SASS, Bootstrap, JavsScript,",
+        "description": "Build application mokup psd file and The most advanced with bootstrap, responsive website building application in sass variable use change theme. Content rich websites are great for SEO.",
+        "achivement":
+        [
+        " Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, javascript",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create",
+        "Login, Registration, Pricing Table",
+        "Delar Ecommerce Website ",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized."
+        ],
+        "visit_website": "",
+        "category": "front-end"
+   },
+   {
+        "unique":"portfolioModalpadmavati",
+        "caption": "Padmavati Packaging pvt",
+        "port_img": "padmavatitrasport.gif",
+        "client": "",
+        "skill": "HTML5, CSS/SASS, Bootstrap, JavsScript, Angular",
+        "description": "Build application mokup psd file and The most advanced with bootstrap, responsive website convert to Angular. Content rich websites are great for SEO.",
+        "achivement":
+        [
+        " Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, javascript convert into Angular Framwork",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create Clinet side",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized."
+        ],
+        "visit_website": "",
+        "category": "angular"
+   },
+   {
+        "unique":"portfolioModalpaperplain",
+        "caption": "Paperplain",
+        "port_img": "paperplain.jpg",
+        "client": "paperplain",
+        "skill": "HTML5, CSS/SASS, JavsScript,",
+        "description": "Build application No css Framwork Only SASS and CSS use",
+        "achivement":
+        [
+        " Translated the requirements websites using HTML, CSS, SASS, javascript HTML Template",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create Clinet side",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized."
+        ],
+        "visit_website": "",
+        "category": "front-end"
+   },
+   {
+        "unique":"portfolioModaldebrasearle",
+        "caption": "Debra Searle",
         "port_img": "debrasearle.jpg",
-        "client": "craftsvilla",
-        "skill": "HTML, CSS,  Jquery, JAVASCRIPT",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, ab! Nemo architecto esse vero reprehenderit tempora animi perspiciatis soluta illo!",
-        "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit." ],
-        "visit_website": "http://www.geetu.in/",
-        "category": "css"
-        },
-        {  
-            "unique":"portfolioModal15",
-            "caption": "debrasearle",
-            "port_img": "debrasearle.jpg",
-            "client": "craftsvilla",
-            "skill": "HTML, CSS,  Jquery, JAVASCRIPT",
-            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, ab! Nemo architecto esse vero reprehenderit tempora animi perspiciatis soluta illo!",
-            "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit." ],
-            "visit_website": "http://www.geetu.in/",
-            "category": "angular"
-            },
-            {
-                "unique":"portfolioModal16",
-                "caption": "debrasearle",
-                "port_img": "debrasearle.jpg",
-                "client": "craftsvilla",
-                "skill": "HTML, CSS,  Jquery, JAVASCRIPT",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, ab! Nemo architecto esse vero reprehenderit tempora animi perspiciatis soluta illo!",
-                "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit." ],
-                "visit_website": "http://www.geetu.in/",
-                "category": "react" 
-            },
-            {
-                "unique":"portfolioModal17",
-                "caption": "debrasearle",
-                "port_img": "debrasearle.jpg",
-                "client": "craftsvilla",
-                "skill": "HTML, CSS,  Jquery, JAVASCRIPT",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, ab! Nemo architecto esse vero reprehenderit tempora animi perspiciatis soluta illo!",
-                "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", "Lorem ipsum dolor sit amet consectetur, adipisicing elit." ],
-                "visit_website": "http://www.geetu.in/",
-                "category": "uiDesigne" 
-            }
+        "client": "Debra Searle",
+        "skill": "HTML, CSS, Wordpress, Customise Wordpress Template",
+        "description": "Build applicationCustomise Wordpress",
+        "achivement":
+        [
+        " WordPress theme requirements websites using HTML, CSS,",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create Clinet side",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized."
+        ],
+        "visit_website": "https://www.debrasearle.com/",
+        "category": "front-end"
+   },
+   {
+        "unique":"portfolioModalgeetu",
+        "caption": "Geetu.in",
+        "port_img": "geetuin.jpg",
+        "client": "Geetuin",
+        "skill": "HTML5, CSS, JavsScript, jquery Plugin",
+        "description": "Build application mokup psd file and The most advanced with bootstrap, html , css",
+        "achivement":
+        [
+        "Translated the requirements websites using HTML, CSS, SASS, javascript",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create Clinet side",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized.",
+        "Music jquery plugin use"
+        ],
+        "visit_website": "http://geetu.in/",
+        "category": "front-end"
+   },
+   {
+        "unique":"portfolioModalcastinhollywood",
+        "caption": "Cast In Hollywood",
+        "port_img": "castinhollywood.jpg",
+        "client": "Cast In Hollywood",
+        "skill": "HTML, CSS, Wordpress, Customise Wordpress Template",
+        "description": "Build application Customise Wordpress",
+        "achivement":
+        [
+        " WordPress theme requirements websites using HTML, CSS,",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create Clinet side",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized."
+        ],
+        "visit_website": "https://castinhollywood.com/",
+        "category": "front-end"
+   },
+   {
+    "unique":"portfolioModalcraftsvilla",
+    "caption": "Craftsvilla.com",
+    "port_img": "craftsvilla.jpg",
+    "client": "Craftsvilla",
+    "skill": "HTML, CSS, javascript, Bootstrap, JQuery, Angular, Wordpress,",
+    "description": "Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, javascript",
+    "achivement":
+    [
+    "Worked with the team ",
+    "Account page data Fetch on angular 2",
+    "helping them build out their markup and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity",
+    "Creating new Features, Functionality and capabilities on the eCommerce site using Ajax, fetch, JSON and Angular.",
+    "Creating Modular, Responsive landing page using SASS, CSS, HTML and jQuery.",
+    "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+    "Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed",
+    "Built and implemented custom templates for Mehndi blog in WordPress",
+    "Designed and developed user-friendly Landing page events",
+    "Designed Account, Shipping, Order, Payment using HTML, css, bootstrap"
+    ],
+    "visit_website": "https://www.craftsvilla.com/",
+    "category": "front-end"
+},
+{
+    "unique":"portfolioModalcraftsvillatemp",
+    "caption": "Craftsvilla Template",
+    "port_img": "craftsvillaold.jpg",
+    "client": "Craftsvilla",
+    "skill": "HTML, CSS, javascript, Bootstrap, JQuery, ",
+    "description": "Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, javascript",
+    "achivement":
+    [
+    "Worked with the team ",
+    "helping them build out their markup and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity",
+    "Creating new Features, Functionality and capabilities on the eCommerce site using Ajax, fetch, JSON and Angular.",
+    "Creating Modular, Responsive landing page using SASS, CSS, HTML and jQuery.",
+    "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+    "Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed",
+    "Built and implemented custom templates for Mehndi blog in WordPress",
+    "Designed and developed user-friendly Landing page events",
+    "Designed Account, Shipping, Order, Payment using HTML, css, bootstrap"
+    ],
+    "visit_website": "https://www.craftsvilla.com/",
+    "category": "front-end"
+},
+{
+    "unique":"portfolioModalunotech",
+    "caption": "Unotech",
+    "port_img": "unotech.jpg",
+    "client": "Unotech",
+    "skill": "HTML, CSS, javascript, Bootstrap, JQuery, Wordpress, PHP, Putty, ",
+    "description": "Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, javascript",
+    "achivement":
+    [
+    "Worked with the team ",
+    "Creating Static unotech Website using HTML, CSS, jquery, bootstrap",
+    "Creating unotech Open source learning Website",
+    "Creating new Stepathlon Social Meida ",
+    "Creating Modular, Responsive landing page using SASS, CSS, HTML and jQuery.",
+    "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+    "Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed",
+    "Enhanced user experience and accomplish webpage objectives by creating site structure, navigation, page optimization integration",
+    "Designed and maintained both corporate and client websites, using scripting languages and content management systems including WordPress",
+    "Client project handle like. Klip.in, BSE scanning doc. Mahindra finance and insurance, PMA, Stepathlon social network, Transpure Pvt ltd etc"
+    ],
+    "visit_website": "https://unotechsoft.com/",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalstepathlon",
+    "caption": "Stepathlon",
+    "port_img": "stepathlonsocial.jpg",
+    "client": "stepathlon",
+    "skill": "HTML, CSS, javascript, Bootstrap, JQuery,  ",
+    "description": "Stepathlon is a pedometer-based, mass participation event for organizations of all sizes across all industries and countries. It provides access to a fun, engaging and interactive online race that encourages participants to be more active everyday. It also provides motivation and information to create relevant awareness through expert resources, interesting apps and much more",
+    "achivement":
+    [
+    "Worked with the team ",
+    "helping them build out their markup and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity",
+    "Creating new Stepathlon Social Meida ",
+    "Creating Modular, Responsive landing page using SASS, CSS, HTML and jQuery.",
+    "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility"
+    
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalklip",
+    "caption": "Klip.in ",
+    "port_img": "kipin.jpg",
+    "client": "Klip in",
+    "skill": "HTML, CSS, javascript, Bootstrap, JQuery,  ",
+    "description": "Build application HTML, CSS, javascript ",
+    "achivement":
+    [
+    "Worked with the team ",
+    "helping them build out their markup and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity",
+    "Creating new Stepathlon Social Meida ",
+    "Creating Modular, Responsive landing page using SASS, CSS, HTML and jQuery.",
+    "Designed and maintained both corporate and client websites"
+
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalbse",
+    "caption": "BSE – Document Management System",
+    "port_img": "bse.jpg",
+    "client": "BSE ",
+    "skill": "HTML, CSS",
+    "description": "working on BSE-Document Management System (DMS) which basically scans all the documents and is sent to the appropriate department once manual tagging is done on the document. SeedDMS manages documents and folders very similar to a file system on your disk ",
+    "achivement":
+    [
+    "Worked with the team ",
+    "helping them build bse document html and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity"
+    
+
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalpma",
+    "caption": "PMS – Project management system",
+    "port_img": "pma.jpg",
+    "client": "PMA ",
+    "skill": "HTML, CSS, Bootstrap, Wordpress",
+    "description": "Project management has the capacity to help plan, organize, and manage resource pools and develop resource estimate. To increase an efficiency of a product, companies are using different project management systems. A company may run a number of projects at a time, and requires input from a number of individuals, or teams for a multilevel development plan. It shows how in turns it helps users to handle projects. These processes in every day’s working life, in these application there are three roles defined as a partner, manager and users where partners can assign task to both managers and users, managers can assign task to their users. It highly meets the standards and requirements set by the company",
+    "achivement":
+    [
+    "Worked with the team ",
+    " WordPress theme requirements websites using HTML, CSS",
+    "helping them build bse document html and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity"
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalaarohaconsultancy",
+    "caption": "Aaroh consultancy",
+    "port_img": "aarohconsultancy.jpg",
+    "client": "Aaroh consultancy ",
+    "skill": "HTML, CSS, Bootstrap",
+    "description": "Build website Using Bootstrap, HTML, CSS",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript HTML Template",
+    "responsive website building application"
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalameypandya",
+    "caption": "Amey Pandya",
+    "port_img": "ameypandya.jpg",
+    "client": "Amey Pandya ",
+    "skill": "HTML, CSS, table ",
+    "description": "Build website Using  HTML, CSS",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "http://www.ameypandya.com/",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalavinashnaik",
+    "caption": "Avinash Naike",
+    "port_img": "Avinash-Naik.jpg",
+    "client": "Avinash Naike ",
+    "skill": "HTML, CSS ",
+    "description": "Build website Using  HTML, CSS",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalganpatitransport",
+    "caption": "Ganpati Trasport",
+    "port_img": "ganpatitransport.jpg",
+    "client": "Ganpati Trasport",
+    "skill": "HTML, CSS, Javascript, jQuery plugin ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalgeniuspro",
+    "caption": "Genius Proschool",
+    "port_img": "Genius-Proschool.jpg",
+    "client": "Genius-Proschool",
+    "skill": "HTML, CSS, Javascript, jQuery plugin, ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Working with .net team",
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalicare4life",
+    "caption": "icare4life",
+    "port_img": "icare4life.jpg",
+    "client": "icare4life",
+    "skill": "HTML, CSS, Javascript, ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Working with .net team",
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModaliconnectsmart",
+    "caption": "iconnectsmart",
+    "port_img": "iconnectsmart.jpg",
+    "client": "iconnectsmart",
+    "skill": "HTML, CSS, Javascript, ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Working with .net team",
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModaliIconnectsmartNetwork",
+    "caption": "Iconnectsmart Network",
+    "port_img": "Iconnectsmart-Network.jpg",
+    "client": "Iconnectsmart Network",
+    "skill": "HTML, CSS, Javascript, ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Working with .net team",
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModaliideaost",
+    "caption": "ideaost",
+    "port_img": "ideaost.jpg",
+    "client": "ideaost",
+    "skill": "HTML, CSS, Javascript, ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Working with .net team",
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalindiantalents",
+    "caption": "Indian talents",
+    "port_img": "indiantalents.jpg",
+    "client": "Indian talents",
+    "skill": "HTML, CSS, Javascript, jquery ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript",
+    "responsive website building application",
+    "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "http://indiantalents.com/",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalITpeople",
+    "caption": "IT-people",
+    "port_img": "IT-people.jpg",
+    "client": "IT-people",
+    "skill": "HTML, CSS, Javascript, jquery ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript",
+    "responsive website building application",
+    "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalJetking",
+    "caption": "Jetking",
+    "port_img": "Jetking.jpg",
+    "client": "Jetking",
+    "skill": "HTML, CSS, Javascript, jquery ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript",
+    "Working with .net team",
+    "Translated the requirements websites using HTML, CSS, SASS, javascript "
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalLionsclube",
+    "caption": "Lions Clube",
+    "port_img": "Lions-clube.jpg",
+    "client": "Lions-clube",
+    "skill": "HTML, CSS, Javascript, jquery ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript",
+    "Working with .net team",
+    "Helping ui .net team"
+    ],
+    "visit_website": "",
+    "category": "front-end"
+},
+{
+    
+    "unique":"portfolioModalrobocomindiamaujmasti",
+    "caption": "Robocomindia Maujmasti",
+    "port_img": "robocomindiamaujmasti.jpg",
+    "client": "Robocomindia Maujmasti",
+    "skill": "HTML, CSS, Javascript, jquery ",
+    "description": "Build website Using  HTML, CSS, javascript, JQuery, and Designing",
+    "achivement":
+    [
+    "Translated the requirements websites using HTML, CSS, SASS, javascript",
+    "Working with .net team",
+    "Helping ui .net team"
+    ],
+    "visit_website": "",
+    "category": "front-end"
+}
 
 ] ,
   "exprience": [
-    {
+   {
     "company": "Freelancer Web Devloper",
     "jointDate": "10th Sept. 2016",
     "leaveDate": "Current ",
     "companyurl": "https://pradeepbhosle8.github.io/pradeepbhosle/",
     "tags": ["HTML/HTML5", "CSS/CSS3", "SASS", "JavaScript", "Bootstrap", "Angular 4+", "PHP","slim api framwork", "git"],
-    "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! ","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!" ]
+    "achivement":
+    [ 
+        " Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, javascript",
+        "responsive website building application",
+        "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+        "Fully Responsive Multiple pages create",
+        "Login, Registration, Pricing Table",
+        "Works perfect on all devices",
+        "All the codes are clean and well organized.",
+        "Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, JavaScript and Angular 4+.",
+        "Responsible for building a new website for the small fleet clients and for the maintenance of the online new platform",
+        "Designing and Implementing HTML email templates for marketing campaigns",
+        "Built and implemented custom templates for blog in WordPress."
+     ]
      
     },
     {
@@ -95,43 +561,62 @@
         "leaveDate": "9th Sept. 20016",
         "companyurl": "HTML, CSS,  Jquery, Falsh8 ",
         "tags": ["HTML/HTML5","CSS/CSS3","SASS","JavaScript","Bootstrap","Angular 4+","PHP","slim api framwork","git"],
-        "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! ","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!" ]
+        "achivement":
+        [ 
+            "Worked with the team, helping them build out their markup and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity.",
+            "Creating new Features, Functionality and capabilities on the eCommerce site using Ajax, fetch, JSON and Angular.",
+            "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+            "Fully Responsive Multiple pages create",
+            "Creating Modular, Responsive landing page using SASS, CSS, HTML and jQuery",
+            "Works perfect on all devices",
+            "All the codes are clean and well organized.",
+            "Translated the requirements and mockups into fully functioning websites using HTML, CSS, SASS, JavaScript and Angular 4+.",
+            "Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed",
+            "Designing and Implementing HTML email templates for marketing campaigns",
+            "Built and implemented custom templates for Mehndi blog in WordPress."
+         ]
          
     },
     {
-        "company": "Craftsvilla.com",
-        "jointDate": "1th Sept. 2015",
-        "leaveDate": "9th Sept. 20016",
+        "company": "Unotech Software pvt ltd",
+        "jointDate": "22th July 2013",
+        "leaveDate": "29th Augu. 2015",
         "companyurl": "HTML, CSS,  Jquery, Falsh8 ",
         "tags": ["HTML/HTML5","CSS/CSS3","SASS","JavaScript","Bootstrap","Angular 4+","PHP","slim api framwork","git"],
-        "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! ","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!" ]
+        "achivement":
+        [ 
+            "Worked with the team, helping them build out their markup and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity.",
+            "Developed websites from front to backend using PHP, JavaScript, CSS and HTML.",
+            "Designed and developed user-friendly website from initial design through completion, optimizing all cross-browser and multi-platform compatibility",
+            "Fully Responsive Multiple pages create",
+            "Creating Modular, Responsive landing page using SASS, CSS, HTML and jQuery",
+            "Works perfect on all devices",
+            "All the codes are clean and well organized.",
+            "Enhanced user experience and accomplish webpage objectives by creating site structure, navigation, page optimization integration",
+            "Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed",
+            "Designed and maintained both corporate and client websites, using scripting languages and content management systems including WordPress",
+            "Client project handle like. Klip.in, BSE scanning doc. Mahindra finance and insurance, PMA, Stepathlon social network, Transpure Pvt ltd etc."
+         ]
          
     },
     {
-        "company": "Craftsvilla.com",
-        "jointDate": "1th Sept. 2015",
-        "leaveDate": "9th Sept. 20016",
+        "company": "ROBOCOM (Icare4life) ",
+        "jointDate": "18th Novem. 2010",
+        "leaveDate": "4th June 2012",
         "companyurl": "HTML, CSS,  Jquery, Falsh8 ",
         "tags": ["HTML/HTML5","CSS/CSS3","SASS","JavaScript","Bootstrap","Angular 4+","PHP","slim api framwork","git"],
-        "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! ","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!" ]
-         
-    },
-    {
-        "company": "Craftsvilla.com",
-        "jointDate": "1th Sept. 2015",
-        "leaveDate": "9th Sept. 20016",
-        "companyurl": "HTML, CSS,  Jquery, Falsh8 ",
-        "tags": ["HTML/HTML5","CSS/CSS3","SASS","JavaScript","Bootstrap","Angular 4+","PHP","slim api framwork","git"],
-        "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! ","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!" ]
-         
-    },
-    {
-        "company": "Craftsvilla.com",
-        "jointDate": "1th Sept. 2015",
-        "leaveDate": "9th Sept. 20016",
-        "companyurl": "HTML, CSS,  Jquery, Falsh8 ",
-        "tags": ["HTML/HTML5","CSS/CSS3","SASS","JavaScript","Bootstrap","Angular 4+","PHP","slim api framwork","git"],
-        "achivement":[ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo! ","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!","Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!", "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, explicabo!" ]
+        "achivement":
+        [ 
+            "Developed websites from scratch",
+            "Worked with the team, helping them build out their markup and CSS. My specialty is large scale HTML, CSS, focusing on reusability and modularity.",
+            "Creating Static site structure, navigation, page optimization, and integration",
+            "Cooperation with team members Implemented enhancements that improved web functionality and responsiveness",
+            "Fully Responsive Multiple pages create",
+            "Website design, front end development (HTML, CSS, JQuery), logo design, multimedia presentations, designing banners, and other graphic designs",
+            "All the codes are clean and well organized.",
+            "Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed"
+           
+         ]
          
     }
 ],
