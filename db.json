@@ -1,5 +1,19 @@
 {
   "portfolio": [
+     {
+        "unique":"javascriptInfoModalDelarhub",
+        "caption": "JavaScript Information",
+        "port_img": "javascriptLearning.jpg",
+        "client": "Pradeep Bhosle ",
+        "skill": "JavsScript, Git",
+        "description": "Some Learning Javascript Functionality Information For Coder.",
+        "achivement":
+        [
+         " BAsic Learning Code Javascript",
+        ],
+        "visit_website": "https://pradeepbhosle8.github.io/JavaScript-Information/",
+        "category": "javascript"
+    },
     {
         "unique":"portfolioModalDelarhub",
         "caption": "Delar hub",
