@@ -547,6 +547,38 @@
 
 ] ,
   "exprience": [
+     {
+    "company": "Carnelian Payment Networks India Pvt Ltd (Paynet)",
+    "jointDate": "27st  September  2021",
+    "leaveDate": "Present",
+    "companyurl": "paynet.co.in",
+    "tags": ["HTML/HTML5", "CSS/CSS3", "SASS", "JavaScript", "Bootstrap", "Angular 4+", "React", "gitlab"],
+    "achivement":
+    [ 
+        "M society ",
+        "Payment Gateway",
+       
+     ]
+     
+    },
+     {
+    "company": "V’GROW Solutions Pvt Ltd. ",
+    "jointDate": "1st  January 2020",
+    "leaveDate": " 27 September 2021  ",
+    "companyurl": "https://pradeepbhosle8.github.io/pradeepbhosle/",
+    "tags": ["HTML/HTML5", "CSS/CSS3", "SASS", "JavaScript", "Bootstrap", "Angular 4+", "React", "gitlab"],
+    "achivement":
+    [ 
+        "Implemented websites, mobile applications, and landing pages from concept through deployment.",
+        "Standardized all output with a new, responsive, mobile-first approach and strategy",
+        "Collaborated with product team members to implement new feature developments.",
+        "Fully Responsive Multiple pages create",
+        "Proficiency in HTML, CSS, JavaScript, and jQuery.",
+        "Coordinating the workflow between the graphic designer, the HTML coder, and yourself",
+        "Built and implemented custom templates for blog in WordPress."
+     ]
+     
+    },
    {
     "company": "Freelancer Web Devloper",
     "jointDate": "10th Sept. 2016",
